@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="image-enhancer",
-    version="",  # publish.sh에서 자동으로 업데이트됩니다
+    version="0.1.1",  # publish.sh에서 자동으로 업데이트됩니다
     packages=find_packages(),
     install_requires=[
         "opencv-python",
