@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="image-enhancer",
-    version="0.1.0",  # 여기서 버전을 변경합니다
+    version="0.1.1",  # 여기서 버전을 변경합니다
     packages=find_packages(),
     install_requires=[
         "opencv-python",
